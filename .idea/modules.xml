@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/py_hackerrank.iml" filepath="$PROJECT_DIR$/.idea/py_hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../py_yandex_test/.idea/py_yandex_test.iml" filepath="$PROJECT_DIR$/../py_yandex_test/.idea/py_yandex_test.iml" />
+    </modules>
+  </component>
+</project>
