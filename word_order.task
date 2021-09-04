@@ -1,0 +1,11 @@
+Sample Input
+
+4
+bcdef
+abcdefg
+bcde
+bcdef
+Sample Output
+
+3
+2 1 1
